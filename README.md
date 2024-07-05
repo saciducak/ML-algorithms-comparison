@@ -72,6 +72,12 @@ KNN and SVM have lower values than other algorithms. however, the Decision tree(
 ![image](https://github.com/saciducak/ML-algorithms-comparison/assets/84833816/f638a510-3d14-4b2e-a268-6f6c058ff878)
 ![image](https://github.com/saciducak/ML-algorithms-comparison/assets/84833816/b1113712-5ea1-4ec8-ae30-b630831e0fa7)
 
+By looking at the above information, we can say that Random Forest (between the max accountancy value and min Std deviation value) generally outperforms other algorithms and achieves more consistent results.
+
+The KNN algorithm orth accurancy value is lower than other algorithms and has a higher standard deviation. Based on the information above, the KNN algorithm is an algorithm that is as unstable as other algorithms.
+
+Decision Tree and SVM algorithms with similar Accurany value can say that SVM is more consistent because std deviation is lower...
+
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
 
