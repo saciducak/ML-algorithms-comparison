@@ -48,17 +48,23 @@ The machine learning algorithms compared in this project are:
     - `algorithm_comparison.ipynb`
     - `visualization.ipynb`
 
-## Results
-The accuracy and training time for each algorithm were recorded and compared. The results are visualized using matplotlib and seaborn.
+## Results 
+
+## Confusion Matrixs
+![image](https://github.com/saciducak/ML-algorithms-comparison/assets/84833816/b5cca92a-49e3-4048-a1bd-90d3027e0623)
+![image](https://github.com/saciducak/ML-algorithms-comparison/assets/84833816/a370b131-ffc4-44a3-9de9-0c928843fb7b)
+![image](https://github.com/saciducak/ML-algorithms-comparison/assets/84833816/0cf2144e-5284-4ab1-84b4-a59fddc0310a)
+![image](https://github.com/saciducak/ML-algorithms-comparison/assets/84833816/6f2d2b52-c5c2-495c-9b0a-64edd0657302)
+
 
 ### Accuracy Comparison
-The mean accuracy and standard deviation for each algorithm across the datasets are calculated and displayed.
+
+![image](https://github.com/saciducak/ML-algorithms-comparison/assets/84833816/83ec2949-392f-41f2-8fd8-d3e4733bab46)
 
 ### Training Time Comparison
-The mean training time for each algorithm is calculated and visualized.
 
-### Confusion Matrices
-Confusion matrices for each algorithm are plotted to visualize the classification performance.
+![image](https://github.com/saciducak/ML-algorithms-comparison/assets/84833816/f638a510-3d14-4b2e-a268-6f6c058ff878)
+![image](https://github.com/saciducak/ML-algorithms-comparison/assets/84833816/b1113712-5ea1-4ec8-ae30-b630831e0fa7)
 
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
