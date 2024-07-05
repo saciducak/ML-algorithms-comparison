@@ -51,10 +51,18 @@ The machine learning algorithms compared in this project are:
 ## Results 
 
 ## Confusion Matrixs
+Here, SVM and KNN have identified too many positive values as negative, a bad feature for this algorithm. However, the Decision tree and Random forest ratings are not as high as KNN and SVM and are relatively more successful. 
+FP: FP (it can be thought as if we said we have something that is not really there.) 
+To the person who is not sick means this person. 
+!! System is a misleading result. 
+
+KNN and SVM have lower values than other algorithms. however, the Decision tree(especially this is too much) and Random forest values have a fairly high FP value, which means that the DT and RF ‚ actually obtained incorrect results from FP values.
+
 ![image](https://github.com/saciducak/ML-algorithms-comparison/assets/84833816/b5cca92a-49e3-4048-a1bd-90d3027e0623)
 ![image](https://github.com/saciducak/ML-algorithms-comparison/assets/84833816/a370b131-ffc4-44a3-9de9-0c928843fb7b)
 ![image](https://github.com/saciducak/ML-algorithms-comparison/assets/84833816/0cf2144e-5284-4ab1-84b4-a59fddc0310a)
 ![image](https://github.com/saciducak/ML-algorithms-comparison/assets/84833816/6f2d2b52-c5c2-495c-9b0a-64edd0657302)
+
 
 
 ### Accuracy Comparison
